@@ -2,9 +2,9 @@
 
 In this exercise, we will dive deeper into S-curved diffusion models, aiming to expand our comprehension through two key activities:
 
-1. **Discussion with ChatGPT:** We will engage in a discussion with ChatGPT to explore the fundamentals of S-curved diffusion models. This interactive conversation will help us grasp the core concepts and gain insights into their practical applications.
+1. **Discussion with ChatGPT:** We will engage in a discussion with ChatGPT to explore the fundamentals of S-curved diffusion models. This interactive conversation will help us grasp the core concepts and gain insights into their practical applications. Get started here: https://chat.openai.com/share/2b5ae4a6-e602-496d-8f53-e63575225cd8
 
-2. **Interactive Dashboard Development:** As part of this exercise, we will also work on building an interactive dashboard. This dashboard will enable us to visualize S-curves and allow for the exploration of various parameters. By doing so, we can better understand how different variables impact the diffusion model.
+2. **Interactive Dashboard Development:** As part of this exercise, we will also work on building an interactive dashboard. This dashboard will enable us to visualize S-curves and allow for the exploration of various parameters. By doing so, we can better understand how different variables impact the diffusion model. Get started here: https://github.com/cpeukert/innovation_strategy/blob/main/week3/s_curves.py
 
 ## Learning Goals
 
