@@ -4,11 +4,16 @@ In this exercise, we will experiment with Generative AI in the new product devel
 
 1. **Brainstorming with ChatGPT:** We will brainstorm ideas for a new product and work out design principles. 
 Here are some categories for your inspiration.
-*Health and Wellbeing*: Wellness gadgets, mental health tools, fitness equipment, etc.
-*Sustainability*: Eco-friendly products, innovations for reducing waste, alternative energy solutions, etc.
-*Transportation and Mobility*: Personal mobility devices, car gadgets, sustainable transportation solutions, etc.
-*Toys and Games*: Educational toys, AR/VR games, board games, etc.
-*Pets and Animals*: Innovative pet care products, toys, training tools, etc.
+
+- *Health and Wellbeing*: Wellness gadgets, mental health tools, fitness equipment, etc.
+
+- *Sustainability*: Eco-friendly products, innovations for reducing waste, alternative energy solutions, etc.
+
+- *Transportation and Mobility*: Personal mobility devices, car gadgets, sustainable transportation solutions, etc.
+
+- *Toys and Games*: Educational toys, AR/VR games, board games, etc.
+
+- *Pets and Animals*: Innovative pet care products, toys, training tools, etc.
 
 2. **Product mock-ups:** As part of this exercise, we will also work on creating visualizations of the product ideas. We will use Bing AI's Image Creator for that. Make sure you have Microsoft Edge installed on your machine. Then click on the Bing icon on the top right and there on the icon with landscape and a paintbrush.
 
