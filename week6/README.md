@@ -4,14 +4,16 @@ In this exercise, we will analyze data from an A/B test.
 
 The experimentation team has set up an A/B test in which some users see design A (control group) and some users see design B (treatment group).
 
-You can find the data in ab_test.csv.
+You can find the data in https://github.com/cpeukert/innovation_strategy/blob/main/week6/ab_test.csv.
 
 The variables are user_id, treatment, and clicks.
 
-Use Excel (or another software you prefer) to find out which design causes more clicks
+Use Excel (or another software you prefer) to find out which design causes more clicks.
 
 - Estimate the effect!
 - Visualize the effect!
+
+A solution with some addition elements can be found here: https://github.com/cpeukert/innovation_strategy/blob/main/week5/AB-Test.xlsx
 
 ## Learning Goals
 
