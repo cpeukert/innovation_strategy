@@ -13,7 +13,7 @@ Use Excel (or another software you prefer) to find out which design causes more 
 - Estimate the effect!
 - Visualize the effect!
 
-A solution with some addition elements can be found here: https://github.com/cpeukert/innovation_strategy/blob/main/week5/AB-Test.xlsx
+A solution with some addition elements can be found here: https://github.com/cpeukert/innovation_strategy/blob/main/week6/AB-Test.xlsx
 
 ## Learning Goals
 
